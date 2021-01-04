@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581455162588",
+    "firebase_url": "https://appetit-64d29.firebaseio.com",
+    "project_id": "appetit-64d29",
+    "storage_bucket": "appetit-64d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581455162588:android:d93ff3e828303681081819",
+        "android_client_info": {
+          "package_name": "com.mad.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581455162588-9sg3c02l0grq2mn5hngk055jhsshihho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.customer",
+            "certificate_hash": "9f661b90bf8348415c1d091915e3551e5a48d9fc"
+          }
+        },
+        {
+          "client_id": "581455162588-8438v5fc2k16g9rog2ghk6jaemds9e9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJKxfEvRwfbIlcuXYT1UC043E2r5DPVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581455162588-8438v5fc2k16g9rog2ghk6jaemds9e9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
